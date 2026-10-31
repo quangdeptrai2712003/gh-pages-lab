@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <title>404 | GitHub Pages Lab</title>
+  <!-- 404 có thể được phục vụ ở độ sâu URL bất kỳ, nên đặt <base> bằng JS -->
+  <script>
+    var seg = location.pathname.split('/');
+    var base = location.hostname.endsWith('github.io') ? '/' + seg[1] + '/' : '/';
+    document.write('<base href="' + base + '">');
+  </script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <main>
+    <h1>404 – Không tìm thấy trang</h1>
+    <p><a href="index.html">Về trang chủ</a></p>
+  </main>
+</body>
+</html>
