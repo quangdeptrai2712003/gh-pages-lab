@@ -1,0 +1,9 @@
+timestamp,url,http_code,content_type,bytes,time_s
+2026-10-31T14:08:53Z,https://quangdeptrai2712003.github.io/gh-pages-lab/about.html,200,text/html; charset=utf-8,762,0.530642
+2026-10-31T14:08:54Z,https://quangdeptrai2712003.github.io/gh-pages-lab/assets/css/style.css,200,text/css; charset=utf-8,422,0.604106
+2026-10-31T14:08:54Z,https://quangdeptrai2712003.github.io/gh-pages-lab/assets/img/favicon.svg,200,image/svg+xml,222,0.459135
+2026-10-31T14:08:55Z,https://quangdeptrai2712003.github.io/gh-pages-lab/assets/img/logo.svg,200,image/svg+xml,222,0.455425
+2026-10-31T14:08:55Z,https://quangdeptrai2712003.github.io/gh-pages-lab/assets/js/main.js,200,application/javascript; charset=utf-8,132,0.448815
+2026-10-31T14:08:55Z,https://quangdeptrai2712003.github.io/gh-pages-lab/index.html,200,text/html; charset=utf-8,773,0.191269
+2026-10-31T14:08:56Z,https://quangdeptrai2712003.github.io/gh-pages-lab/,200,text/html; charset=utf-8,773,0.209759
+2026-10-31T14:08:56Z,https://quangdeptrai2712003.github.io/gh-pages-lab/khong-ton-tai-20261031-210852,404,text/html; charset=utf-8,614,0.433437
